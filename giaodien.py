@@ -7,7 +7,7 @@ import numpy as np
 from insightface.app import FaceAnalysis
 
 # --- Load model SVM ---
-save_path = "face_buffalo_l_svm.pkl"   # thay bằng đường dẫn pkl của bạn
+save_path = "face_buffalo_l_svm.pkl"   
 svm_loaded = joblib.load(save_path)
 
 # --- Khởi tạo InsightFace ---
