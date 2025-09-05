@@ -9,10 +9,15 @@ Dự án này xây dựng hệ thống **nhận diện khuôn mặt** gồm 3 ph
 
 ## Cấu trúc dự án
 ├── dataset/ # Thư mục chứa ảnh khuôn mặt (theo từng người)
+
 ├── face_buffalo_l_svm.pkl # Mô hình SVM đã train, dùng để dự đoán
+
 ├── giaodien.py # File giao diện chạy chương trình nhận diện
+
 ├── NhanDienKhuonMatCNN2.ipynb# Notebook huấn luyện CNN
+
 ├── pipeline.txt # Mô tả pipeline hệ thống
+
 ├── thuthapkhuonmat.py # Script thu thập dữ liệu ảnh khuôn mặt
 
 
