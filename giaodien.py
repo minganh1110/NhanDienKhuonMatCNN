@@ -26,7 +26,7 @@ panel = None
 id_to_name = {
     1: "Minh Anh",
     2: "Linh",
-    3: "Vũ",
+    3: "Vu",
     4: "Long"
 }
 
