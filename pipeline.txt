@@ -1,1 +1,1 @@
-input ----> Data Processing --->  Data Augmentation ---> CNN (ResNet50) Feature Extractor ---> embedding ---> SVM ----> predict 
+input ----> Data Processing --->  Data Augmentation ---> CNN (buffalo_l) Feature Extractor ---> embedding ---> SVM ----> predict 
